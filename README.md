@@ -1,13 +1,11 @@
 ## Hi there 👋 I'm Hoil Jeong
 
-<!--
-**hoil96/hoil96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 💬 About Me
+## 💬 About Me
 IT graduate with a strong interest in software development
 Focused on backend systems and application development
 Interested in cybersecurity and problem-solving
 Currently building practical projects using modern technologies
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
