@@ -1,10 +1,13 @@
 ## Hi there 👋 I'm Hoil Jeong
 
 ## 💬 About Me
-IT graduate with a strong interest in software development
-Focused on backend systems and application development
-Interested in cybersecurity and problem-solving
-Currently building practical projects using modern technologies
+IT graduate with a strong interest in software development.
+
+Focused on backend systems and application development.
+
+Interested in cybersecurity and problem-solving.
+
+Currently building practical projects using modern technologies.
 
 
 - 🔭 I’m currently working on ...
