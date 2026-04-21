@@ -58,7 +58,7 @@ Tech: C#
 
 Email: hoil9695@gmail.com
 
-GitHub: https://github.com/[hoil96]
+GitHub: https://github.com/hoil96/hoil96
 
 Linkedin: https://www.linkedin.com/in/hoil-jeong-1a2819368/
 
