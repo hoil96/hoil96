@@ -2,8 +2,11 @@
 
 ## 💬 About Me
 🎓 **Information Technology Student** at Wintec (Hamilton, NZ), specializing in Software Engineering.
+
 💻 **Aspiring Web / Back-end Developer & IT Support Enthusiast** with a strong engineering mindset.
+
 🚀 Passionate about building practical backend systems, database integration, and cross-platform applications.
+
 🤝 Proven team leader with 3 years of local NZ customer service/management experience and military leadership.
 
 ## 🔭  Skils
