@@ -16,9 +16,9 @@ C#, Java, JavaScripy, VB.Net, PHP , HTML5 , CSS3
 
 ## Frameworks & Tools
 .NET / .NET MAUI
-Visual Studio
-Git
-Boostrap
+,Visual Studio
+,Git
+,Boostrap
 
 ## Database
 MySQL, SQL Server
