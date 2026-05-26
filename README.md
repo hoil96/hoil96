@@ -25,21 +25,17 @@ MySQL, SQL Server
 
 ## 🌱 Project
 
-### 1. Cross-Platform Mobile Application for NZ Youth (Academic Team Project)
-* **Description:** Developed a .NET MAUI mobile app tailored for New Zealand youth, integrating Māori cultural design elements and user-friendly UX. Successful in delivering professional client presentations and design pitches.
-* **Tech Stack:** C#, .NET MAUI, UI/UX Design Tools
+### 1. Android Mobile Application for NZ Youth (Academic Team Project)
+* **Description:** Developed a native Android mobile application tailored for New Zealand youth, integrating Māori cultural design elements and user-friendly UX. Successful in delivering professional client presentations and design pitches.
+* **Tech Stack:** Java, Android Studio, UI/UX Design Tools
 
-### 2. Full-Stack Company Portfolio Website (Academic Team Project)
+### 2. Cross-Platform Application (.NET MAUI)
+* **Description:** Developed a cross-platform application using .NET MAUI. Designed to run efficiently on multiple platforms with a unified codebase, focusing on robust UI structure, smooth navigation, and application logic.
+* **Tech Stack:** C#, .NET MAUI, Visual Studio
+
+### 3. Full-Stack Company Portfolio Website (Academic Team Project)
 * **Description:** Acted as a Project Manager leading a team of 5 to design and deliver a responsive portfolio website. Implemented interactive front-end components and secure back-end form validation.
 * **Tech Stack:** HTML5, CSS3, Bootstrap, JavaScript, PHP, XAMPP
-
-### 3. Client & Subscription Management System (Academic Project)
-* **Description:** Built a Windows Forms application for managing clients and subscriptions. Implemented secure database interaction using stored procedures, handling billing and basic incident tracking logic.
-* **Tech Stack:** VB.NET, MySQL
-
-### 4. Custom Dictionary Data Structure (C# Individual Project)
-* **Description:** Implemented a custom dictionary system utilizing a 3-tier architecture. Supports robust insert, search, and delete operations with file-based data loading and structured data processing.
-* **Tech Stack:** C#
 
 ## ⚡ Contact
 
