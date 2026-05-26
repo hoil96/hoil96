@@ -37,6 +37,10 @@ MySQL, SQL Server
 * **Description:** Acted as a Project Manager leading a team of 5 to design and deliver a responsive portfolio website. Implemented interactive front-end components and secure back-end form validation.
 * **Tech Stack:** HTML5, CSS3, Bootstrap, JavaScript, PHP, XAMPP
 
+### 4. 2D Game Development (Academic Assessment Project)
+* **Description:** Developed an interactive game during the Game Development course, focusing on real-time object logic, physics configuration, and smooth user control. Enhanced problem-solving skills by optimizing script performance and fixing intricate bugs.
+* **Tech Stack:** C#, Godot v3.5.2
+
 ## ⚡ Contact
 
 Email: hoil9695@gmail.com
