@@ -5,8 +5,6 @@ IT graduate with a strong interest in software development.(in progress)
 
 Focused on backend systems and application development.
 
-Interested in cybersecurity and problem-solving.
-
 Currently building practical projects using modern technologies.
 
 
