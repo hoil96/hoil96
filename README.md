@@ -5,7 +5,7 @@
 
 💻 **Aspiring Web / Back-end Developer & IT Support Enthusiast** with a strong engineering mindset.
 
-🚀 Passionate about building practical backend systems, database integration, and cross-platform applications.
+🚀 Passionate about  building practical backend systems, database integration, and cross-platform applications. Proficient in AI-assisted development workflows (Claude) to accelerate feature shipping and troubleshooting.
 
 🤝 Proven team leader with 3 years of local NZ customer service/management experience and military leadership.
 
@@ -29,6 +29,7 @@ MySQL, SQL Server, SQLite
 
 ### 1. Shopify-Embedded Repair Workflow Manager (Current Internship Project)
 * **Description:** Developing a custom Shopify-embedded application for Regen Computers to manage computer repair jobs and internal workflows efficiently. Configured local development environments and backend data routing.
+* Streamlined the daily repair tracking process for staff, reducing manual record-handling time through automated status updates.
 * **Tech Stack:** Shopify CLI, Shopify Admin API, Vue.js, Prisma ORM, SQLite, Node.js
   
 ### 2. Android Mobile Application for NZ Youth (Academic Team Project)
